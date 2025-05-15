@@ -73,7 +73,4 @@ This project aims to detect fraudulent credit card transactions using various Ma
 
 > 🚨 Special focus on **Recall** due to the critical nature of false negatives in fraud detection.
 
----
-
-## 📁 Project Structure
 
